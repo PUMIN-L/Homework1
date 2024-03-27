@@ -188,8 +188,7 @@ footer div {
     background-color: rgb(248, 248, 248);
     width: 1200px;
     height: 900px;
-   
- 
+    margin-top: 280px;
 }
 .contactPage{
     display: flex;
